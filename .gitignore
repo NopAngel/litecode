@@ -1,0 +1,13 @@
+# building
+.build
+dist
+build
+luatemp
+index.spec
+
+
+
+__pycache__
+example
+index.exe
+~.exe
