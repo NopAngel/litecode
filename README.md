@@ -18,10 +18,6 @@
 ## Screenshots
 <img src="assets/screenshots/screenshot.png" alt="Screenshots" />
 
-Pero crea otro ## Con las contribuciones de que pueden contribuir si hacen issues
-¡Entendido! Aquí tienes el README.mdactualizado con una nueva sección específica sobre cómo contribuir a través de issues:
-
-markdown
 # LiteCode
 
 ## Description
